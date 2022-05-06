@@ -15,3 +15,5 @@ Pratik_5 => Dairenin Alanını ve Çevresini Hesaplayan Program
 Pratik_6 => Basit Hesap Makinesi
 
 Pratik_7 => Kullanıcı Girişi
+
+Pratik_8 => Sınıf Geçme Durumu
