@@ -17,3 +17,5 @@ Pratik_6 => Basit Hesap Makinesi
 Pratik_7 => Kullanıcı Girişi
 
 Pratik_8 => Sınıf Geçme Durumu
+
+Pratik_9 =>Hava Sıcaklığına Göre Etkinlik Önerme
