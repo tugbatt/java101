@@ -18,4 +18,6 @@ Pratik_7 => Kullanıcı Girişi
 
 Pratik_8 => Sınıf Geçme Durumu
 
-Pratik_9 =>Hava Sıcaklığına Göre Etkinlik Önerme
+Pratik_9 => Hava Sıcaklığına Göre Etkinlik Önerme
+
+Pratik_10 => Sayıları Büyükten Küçüğe Sıralama
