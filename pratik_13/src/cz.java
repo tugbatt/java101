@@ -4,7 +4,7 @@ public class cz {
     public static void main(String[] args) {
         int birthday = 0, kalan;
         Scanner input = new Scanner(System.in);
-        System.out.println("Doğum tarihinizi giriniz:");
+        System.out.println("Doğum yılınızı giriniz:");
         birthday = input.nextInt();
 
         if (birthday > 0) {
