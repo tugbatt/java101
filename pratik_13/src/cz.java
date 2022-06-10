@@ -10,7 +10,7 @@ public class cz {
         if (birthday > 0) {
             System.out.println();
         } else {
-            System.out.println("Doğum yılınızı hatalı girdiniz.");
+            System.out.println("Doğum yılınızı hatalı girdiniz!");
             System.exit(0);
         }
 
@@ -38,7 +38,7 @@ public class cz {
         } else if (kalan == 10) {
             System.out.println("Çin Zodyağı burcunuz: At");
         } else if (kalan == 11) {
-            System.out.println("Çin Zodyağı burcunuz: At");
+            System.out.println("Çin Zodyağı burcunuz: Koyun");
         }
     }
 }
