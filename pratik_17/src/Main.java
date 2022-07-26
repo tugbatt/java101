@@ -13,6 +13,7 @@ public class Main {
         int totaln=1;
         int totalr=1;
         int totalnr=1;
+
         for(int i=1; i <= n; i++ ){
             totaln=totaln*i;
         }
