@@ -29,3 +29,5 @@ Pratik_12 => Uçak Bileti Fiyatı Hesaplamayan Program
 Pratik_13 => Çin Zoydağı Burcunuzu Bulan Program
 
 Pratik_14 => Artık Yıl Hesaplayan Program
+
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
