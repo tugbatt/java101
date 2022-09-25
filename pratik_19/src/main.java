@@ -1,11 +1,18 @@
 import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
-        int n,k;
+        int x,y;
         Scanner input = new Scanner(System.in);
-        n= input.nextInt();
-        System.out.print("üssü alınacak sayı:");
-        System.out.print("üs olacak sayı:");
 
+        System.out.print("üssü alınacak sayı:");
+        x= input.nextInt();
+        System.out.print("üs olacak sayı:");
+        y= input.nextInt();
+        int total = 1;
+        for(int i=1;i<=y;i++) {
+            total *= x;
+        }
+            System.out.println(total);
+        }
     }
-}
+
