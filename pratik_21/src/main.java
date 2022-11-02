@@ -16,6 +16,6 @@ public class main {
             // 2.döngü, i=2;result=1 + (1/2)=1.5;
 
             System.out.println(result);
-;        }
+        }
     }
 }
