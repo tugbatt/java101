@@ -30,9 +30,22 @@ Pratik_13 => Çin Zoydağı Burcunuzu Bulan Program
 
 Pratik_14 => Artık Yıl Hesaplayan Program
 
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com)
+Pratik_15 => Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
 
+Pratik_16 => Tek Sayıların Toplamını Bulan Program
 
+Pratik_17 => Girilen Sayıdan Küçük 2'nin Kuvvetlerini Bulan Program
+
+Pratik_18 => Faktöriyel Bulan Program
+
+Pratik_19 => Üslü Sayı Hesaplayan Program
+
+Pratik_20 => Armstrong Sayıları Bulan Program
+
+Pratik_21 => Harmonik Sayıları Bulan Program
+
+Pratik_22 => Yıldızlar ile Üçgen Yapımı
+
+Pratik_23 => Atm Projesi
 
 
