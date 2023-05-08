@@ -1,51 +1,83 @@
 *Java 101 kapsamında gerçekleştirmiş olduğum projeleri içerir.*
 
-Hackerrank_1 => Veri Tipi Belirleyen Program
+Temel kavram ve değişkenler
+Pratikler
+Not Ortalaması Hesaplayan Program
+Kdv Tutarı Hesaplayan Program
+Dik Üçgenin Hipotenüsünü Hesaplayan Program
+Taksimetre Programı
+Dairenin Alanını ve Çevresini Hesaplayan Program
+Basit Hesap Makinesi
+Kullanıcı Girişi
+Sınıf Geçme Durumu
+Hava Sıcaklığına Göre Etkinlik Önerme
+Sayıları Büyükten Küçüğe Sıralama
+Burç Bulan Program
 
-Pratik_1 => Not Ortalaması Hesaplayan Program
+Ödevler
+-Uçak Bileti Fiyatı Hesaplamayan Program
+-Çin Zoydağı Burcunuzu Bulan Program
+-Artık Yıl Hesaplayan Program
 
-Pratik_2 => Kdv Tutarı Hesaplayan Program
+Döngüler
+Pratikler
+Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
+Tek Sayıların Toplamını Bulan Program
+Girilen Sayıdan Küçük 2'nin Kuvvetlerini Bulan Program
+Faktöriyel Bulan Program
+Üslü Sayı Hesaplayan Program
+Armstrong Sayıları Bulan Program
+Harmonik Sayıları Bulan Program
+Yıldızlar ile Üçgen Yapımı
+Atm Projesi
+EBOB-EKOK Bulan Program
 
-Pratik_3 => Dik Üçgenin Hipotenüsünü Hesaplayan Program
+ Ödevler
+-Girilen sayılardan Min ve Max değerleri bulma
+-Mükemmel sayı bulan program
+-Ters Üçgen yapımı
+-1-100 arasında asal sayıları bulan program
+-Fibonacci serisi
 
-Pratik_4 => Taksimetre Programı
+Metotler
+Pratikler
+Palindrom Sayılar
+Recursive ile Fibonacci Serisi Bulan Program
+Gelişmiş Hesap Makinesi
 
-Pratik_5 => Dairenin Alanını ve Çevresini Hesaplayan Program
+Ödevler
+-Üs hesabı yapan program
+-Asal sayı bulan program
+-Desene göre metot oluşturma
 
-Pratik_6 => Basit Hesap Makinesi
+Sınıflar
+Pratikler
+Öğrenci bilgi sistemi
+Boks oyunu
 
-Pratik_7 => Kullanıcı Girişi
+Ödev
+Maaş hesaplayıcı
 
-Pratik_8 => Sınıf Geçme Durumu
+Diziler
+Pratikler
+Dizideki elemanların ortalamasını bulan program
+Dizideki maksimum ve minimum değerleri bulan program
+Çok boyutlu diziler ile A Harfi yazan program
+Dizideki tekrar eden sayıları bulan program
 
-Pratik_9 => Hava Sıcaklığına Göre Etkinlik Önerme
+Ödevler
+Dizideki elemanları sıralama
+Dizideki elemanların frekansı
+Matris transpozunu bulma
 
-Pratik_10 => Sayıları Büyükten Küçüğe Sıralama
+Diğer konular
+Sayı tahmin oyunu
+Palindromik kelimeleri bulan program
 
-Pratik_11 => Burç Bulan Program
+Bitirme projesi
+Mayın tarlası oyunu
 
-Pratik_12 => Uçak Bileti Fiyatı Hesaplamayan Program
 
-Pratik_13 => Çin Zoydağı Burcunuzu Bulan Program
 
-Pratik_14 => Artık Yıl Hesaplayan Program
-
-Pratik_15 => Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
-
-Pratik_16 => Tek Sayıların Toplamını Bulan Program
-
-Pratik_17 => Girilen Sayıdan Küçük 2'nin Kuvvetlerini Bulan Program
-
-Pratik_18 => Faktöriyel Bulan Program
-
-Pratik_19 => Üslü Sayı Hesaplayan Program
-
-Pratik_20 => Armstrong Sayıları Bulan Program
-
-Pratik_21 => Harmonik Sayıları Bulan Program
-
-Pratik_22 => Yıldızlar ile Üçgen Yapımı
-
-Pratik_23 => Atm Projesi
 
 
