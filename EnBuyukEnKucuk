@@ -1,0 +1,33 @@
+package com.example.enbuyukenkucuk;
+
+import java.util.Scanner;
+
+public class enBuyukEnKucuk {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Kaç adet sayı gireceksiniz: ");
+        int n = scanner.nextInt();
+
+        int enBuyuk = Integer.MIN_VALUE; // En küçük başlangıç değeri
+        int enKucuk = Integer.MAX_VALUE; // En büyük başlangıç değeri
+
+        for (int i = 1; i <= n; i++) {
+            System.out.print(i + ". Seçtiğiniz sayıları giriniz: ");
+            int sayi = scanner.nextInt();
+
+            if (sayi > enBuyuk) {
+                enBuyuk = sayi;
+            }
+
+            if (sayi < enKucuk) {
+                enKucuk = sayi;
+            }
+        }
+
+        System.out.println("En büyük sayı: " + enBuyuk);
+        System.out.println("En küçük sayı: " + enKucuk);
+        System.out.println(" Teşekkürler ;) ");
+        scanner.close();
+    }
+}
